@@ -1,0 +1,15 @@
+<!DOCTYPE html> <!-- Il compito di DOCTYPE è quello di spiegare alle programmatrici e ai programmatori e ai browser di quale definizione del tipo di documento -->
+
+<html lang="it">
+
+<head>
+	<meta charset="UTF-8"> <!--è possibile specificare informazioni (anzi, meta-informazioni) relative al genere e al tipo di pagina web e UTF-8 è un tipo di codifica .-->
+	<title> motori </title>
+	<center><h1> 50ini </h1></center>
+</head>
+
+<body>
+	<div align=left> suka
+</body>
+
+</html>
